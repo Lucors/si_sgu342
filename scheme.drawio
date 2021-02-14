@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T13:44:38.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.41 YaBrowser/21.2.0.1097 Yowser/2.5 Safari/537.36" etag="sKe_5O1Ov3ftHgdG5WFr" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-14T13:56:03.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.41 YaBrowser/21.2.0.1097 Yowser/2.5 Safari/537.36" etag="cV3z3Rxqoh4ualY4f2Lf" version="14.3.1" type="github">
   <diagram id="fdaFz8g7WsJd5ks0n-gx" name="Page-1">
-    <mxGraphModel dx="1124" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="775" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
         <mxCell id="Tfnw866Hx88FF2iFjDKs-14" value="&lt;h1&gt;Игровые этапы (Stage)&lt;/h1&gt;&lt;p&gt;В ходе взаимодействия игрока со страницей будет происходить смена игровых сцен, этапов.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="440" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Tfnw866Hx88FF2iFjDKs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Tfnw866Hx88FF2iFjDKs-15" target="Tfnw866Hx88FF2iFjDKs-16">
+        <mxCell id="Tfnw866Hx88FF2iFjDKs-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=1;fontSize=12;" edge="1" parent="1" source="Tfnw866Hx88FF2iFjDKs-15" target="Tfnw866Hx88FF2iFjDKs-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tfnw866Hx88FF2iFjDKs-15" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Заставка&lt;br&gt;Intro&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -49,19 +49,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tfnw866Hx88FF2iFjDKs-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Лобби&lt;br&gt;Lobby&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tfnw866Hx88FF2iFjDKs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Tfnw866Hx88FF2iFjDKs-18" target="Tfnw866Hx88FF2iFjDKs-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tfnw866Hx88FF2iFjDKs-18" value="&lt;span&gt;В игре&lt;br&gt;Ingame&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Tfnw866Hx88FF2iFjDKs-20" value="&lt;span&gt;Конец Игры&lt;br&gt;Endgame&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Tfnw866Hx88FF2iFjDKs-20" value="&lt;span&gt;Конец Игры&lt;br&gt;Endgame&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="Tfnw866Hx88FF2iFjDKs-23" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="450" height="130" as="geometry" />
+          <mxGeometry x="120" y="360" width="570" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tfnw866Hx88FF2iFjDKs-25" value="&lt;h1&gt;Синхронизация&lt;/h1&gt;&lt;p&gt;Данный аспект может стать огромной проблемой. На момент проектирования предлагается следующая схема синхронизации:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="550" width="400" height="80" as="geometry" />
@@ -261,6 +261,12 @@
         </mxCell>
         <mxCell id="Tfnw866Hx88FF2iFjDKs-148" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;rounded=0;strokeColor=#000000;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="50" width="250" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfnw866Hx88FF2iFjDKs-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=1;fontSize=12;" edge="1" parent="1" source="Tfnw866Hx88FF2iFjDKs-149" target="Tfnw866Hx88FF2iFjDKs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfnw866Hx88FF2iFjDKs-149" value="Авторизация&lt;br&gt;Login" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
